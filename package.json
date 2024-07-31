@@ -2,7 +2,7 @@
   "name": "gitkraken-dark",
   "displayName": "Gitkraken Dark",
   "description": "Dark theme for vscode based on Gitkraken GUI",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "publisher": "NicScott",
   "engines": {
     "vscode": "^1.70.0"
@@ -25,6 +25,11 @@
         "label": "Gitkraken Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Gitkraken Dark-color-theme.json"
+      },
+      {
+        "label": "Gitkraken Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gitkraken Darker-color-theme.json"
       }
     ]
   },
